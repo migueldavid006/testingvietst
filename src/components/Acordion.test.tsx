@@ -8,5 +8,6 @@ describe('Acordion',()=>{
         expect(1+1).toBe(2)
         
         const x = 1 + 1
+        const gietPull ='git pull pull'
     });
 });
